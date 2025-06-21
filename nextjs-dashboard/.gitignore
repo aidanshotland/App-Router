@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Production build
+dist/
+
+# Tailwind's JIT cache
+.tailwind/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.swp
+
+# Vercel
+.vercel/
+
+# Mac .Trash files
+.Trashes
